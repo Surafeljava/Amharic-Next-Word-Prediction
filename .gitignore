@@ -1,0 +1,4 @@
+# Ignore all .h5 files
+*.h5
+
+model
